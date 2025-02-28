@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.ts"],"sourcesContent":["// SPDX-FileCopyrightText: 2024 LiveKit, Inc.\r\n//\r\n// SPDX-License-Identifier: Apache-2.0\r\nexport { VAD, VADStream } from './vad.js';\r\n"],"mappings":"AAGA,SAAS,KAAK,iBAAiB;","names":[]}
